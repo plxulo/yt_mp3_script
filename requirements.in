@@ -1,0 +1,7 @@
+build==1.4.2
+click==8.3.1
+packaging==26.0
+pip-tools==7.5.3
+pyproject_hooks==1.2.0
+tomli==2.4.0
+yt-dlp==2026.3.17
